@@ -13,7 +13,6 @@ export default async function Home() {
           <hr />
         </div>
       ))}
-      hello world!
     </div>
   );
 }
